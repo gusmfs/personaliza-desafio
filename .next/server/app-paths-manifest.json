@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/patients/new/page": "app/patients/new/page.js",
+  "/patients/[id]/page": "app/patients/[id]/page.js",
+  "/api/patients/route": "app/api/patients/route.js",
+  "/api/patients/[id]/attachments/route": "app/api/patients/[id]/attachments/route.js",
+  "/api/attachments/[id]/route": "app/api/attachments/[id]/route.js"
+}
